@@ -23,7 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/layout_margin"
         android:contentDescription="@string/yellow_start"
-        app:srcCompat="@android:drawable/btn_star_big_on" />
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:ignore="ImageContrastCheck" />
 
     <ScrollView
         android:id="@+id/bio_scroll"
