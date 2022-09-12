@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Fatima</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">Hola mi nombre es Fatima Vianey
+        \n\n Naci en el 2001
+        \n\n Actualmente estoy estudiando sistemas computacionales,
+        \n es una carrera compleja, sin embargo, es muy cool.
+        \n\n
+        \n\n Mis pasatiempos:
+        \n Hago ejercicio desde hace casi 5 años, es algo que me gusta mucho,
+        \n Me gusta leer (astronomia, suspenso, cuentos, etc.),
+        \n salir,
+        \n Me gusta bailar (aunque me falta practicar)
+        \n Me gusta aprender cosas nuevas
+        \n Estar con mi familia
+        \n y cuando digo familia van involucrados mis perritos.
+        \n\n
+        \n Comida favorita:
+        \n Me encantan los postres,
+        \n Tacos,
+        \n Pizza,
+        \n Makis
+        \n\n
+        \n Bebidas favoritas:
+        \n Mojitos
+        \n Te chai
+        \n Te matcha
+    </string>
+    <string name="palomita">Es un correcto</string>
+</resources>
